@@ -19,7 +19,7 @@
 <a href="#"><img src="https://img.shields.io/badge/edition-Professional-yellow?style=flat" alt="edition"/></a>
 <a href="#"><img src="https://img.shields.io/badge/system-macOS-blue?style=flat" alt="system"/></a>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeK0cdSnGCQRpMybQegHIH3MNehTeTnTDtYQ&s" width="824" alt="Interface"/>
+<img src="https://setapp.com/cdn-cgi/image/quality=75,format=auto/https://cdn.setapp.com/blog/images/turn-website-app-automator-mac.png" width="824" alt="Interface"/>
 
 </div>
 
@@ -62,7 +62,7 @@ Performance optimization through background processing maintains interface respo
 ## Additional Screenshots
 
 <p align="center">
-  <img src="https://www.maxprog.com/pictures/screenshots/productsheet_screenshot_webdumper_us_main_25.png" width="824" alt="WebDumper features"/>
+  <img src="https://media.imgcdn.org/repo/2023/03/web-dumper/web-dumper-free-download-03.jpg" width="824" alt="WebDumper features"/>
 </p>
 
 ---
